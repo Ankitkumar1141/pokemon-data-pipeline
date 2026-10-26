@@ -1,0 +1,80 @@
+AVAILABLE TABLES:
+======================================================================
+('moves',)
+('pokemon',)
+('pokemon_abilities',)
+('pokemon_moves',)
+('pokemon_species',)
+('pokemon_types',)
+
+TOP 10 POKEMON BY TOTAL BASE STATS:
+======================================================================
+(10190, 'eternatus-eternamax', 1125)
+(10043, 'mewtwo-mega-x', 780)
+(10044, 'mewtwo-mega-y', 780)
+(10079, 'rayquaza-mega', 780)
+(10301, 'zygarde-mega', 778)
+(10077, 'kyogre-primal', 770)
+(10078, 'groudon-primal', 770)
+(10157, 'necrozma-ultra', 754)
+(493, 'arceus', 720)
+(10120, 'zygarde-complete', 708)
+
+TOP 10 POKEMON BY OFFENSIVE POWER:
+======================================================================
+(10001, 'deoxys-attack', 360)
+(10079, 'rayquaza-mega', 360)
+(10043, 'mewtwo-mega-x', 344)
+(10044, 'mewtwo-mega-y', 344)
+(10157, 'necrozma-ultra', 334)
+(10077, 'kyogre-primal', 330)
+(10078, 'groudon-primal', 330)
+(10086, 'hoopa-unbound', 330)
+(10075, 'diancie-mega', 320)
+(10319, 'zeraora-mega', 304)
+
+TOP 10 POKEMON BY DEFENSIVE POWER:
+======================================================================
+(10190, 'eternatus-eternamax', 500)
+(213, 'shuckle', 460)
+(10072, 'steelix-mega', 325)
+(10002, 'deoxys-defense', 320)
+(805, 'stakataka', 312)
+(10053, 'aggron-mega', 310)
+(411, 'bastiodon', 306)
+(377, 'regirock', 300)
+(378, 'regice', 300)
+(379, 'registeel', 300)
+
+TOP 10 FASTEST POKEMON:
+======================================================================
+(894, 'regieleki', 200, 100.0)
+(10003, 'deoxys-speed', 180, 99.93)
+(291, 'ninjask', 160, 99.85)
+(10319, 'zeraora-mega', 153, 99.78)
+(795, 'pheromosa', 151, 99.59)
+(10307, 'absol-mega-z', 151, 99.59)
+(10309, 'garchomp-mega-z', 151, 99.59)
+(10310, 'lucario-mega-z', 151, 99.59)
+(101, 'electrode', 150, 99.19)
+(386, 'deoxys-normal', 150, 99.19)
+
+POKEMON COUNT BY SPECIAL STATUS:
+======================================================================
+('Normal', 912)
+('Legendary', 71)
+('Mythical', 23)
+('Baby', 19)
+
+POKEMON SPECIES DATA:
+======================================================================
+(1, 'Seed Pokémon', 'generation-i', 'green', 'quadruped', 'grassland', 'Normal')
+(2, 'Seed Pokémon', 'generation-i', 'green', 'quadruped', 'grassland', 'Normal')
+(3, 'Seed Pokémon', 'generation-i', 'green', 'quadruped', 'grassland', 'Normal')
+(4, 'Lizard Pokémon', 'generation-i', 'red', 'upright', 'mountain', 'Normal')
+(5, 'Flame Pokémon', 'generation-i', 'red', 'upright', 'mountain', 'Normal')
+(6, 'Flame Pokémon', 'generation-i', 'red', 'upright', 'mountain', 'Normal')
+(7, 'Tiny Turtle Pokémon', 'generation-i', 'blue', 'upright', 'waters-edge', 'Normal')
+(8, 'Turtle Pokémon', 'generation-i', 'blue', 'upright', 'waters-edge', 'Normal')
+(9, 'Shellfish Pokémon', 'generation-i', 'blue', 'upright', 'waters-edge', 'Normal')
+(10, 'Worm Pokémon', 'generation-i', 'green', 'armor', 'forest', 'Normal')
